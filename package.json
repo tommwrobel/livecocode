@@ -1,0 +1,24 @@
+{
+  "name": "livecocode",
+  "version": "1.0.0",
+  "description": "Live code sharing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tommwrobel/livecocode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tommwrobel/livecocode/issues"
+  },
+  "homepage": "https://github.com/tommwrobel/livecocode#readme",
+  "dependencies": {
+    "socket.io": "^4.2.0",
+    "socket.io-client": "^4.2.0"
+  }
+}
